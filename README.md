@@ -6,15 +6,15 @@ Harvest Horizon is a simplified farming simulation game designed to be fun and r
 
 ### Levels
 
-Capacity farm increase
-Unlock Crop Water Speed (2x)
-Speed Increase (5x)
-Yield Increase (10x)
-Increase Batch Sizes (per plot, multi-select)
-Unlock multi-gather tiles (Speed Harvesting)
-Unlock multi-zone tiles (Max Tier Harvesting)
-Unlock speed collect auto animations(Level Gaps)
-Unlock multiplayer? (Initial Implementation)
+- Capacity farm increase
+- Unlock Crop Water Speed (2x)
+- Speed Increase (5x)
+- Yield Increase (10x)
+- Increase Batch Sizes (per plot, multi-select)
+- Unlock multi-gather tiles (Speed Harvesting)
+- Unlock multi-zone tiles (Max Tier Harvesting)
+- Unlock speed collect auto animations(Level Gaps)
+- Unlock multiplayer? (Initial Implementation)
 
 Max Crop Growth: every 6 hours - Crops farmed in real-time.
 
