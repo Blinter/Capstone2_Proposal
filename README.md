@@ -43,7 +43,8 @@ The initial implementation will allow an 'end-game' to persist, allowing the pla
 2. For suitable server resource allocation, imposing a hard cap on the maximum amount of resources a player can consume can be difficult to profile.
 3. Combining the Express and React applications can be potentially confusing to maintain, but makes testing more convenient.
 
-**MongoDB** Saves game states, other unstructured variables required for game thread processing (Inventory, Map attributes)
+### **MongoDB** 
+ - Saves game states, other unstructured variables required for game thread processing (Inventory, Map attributes)
 
 ### **Postgres**
 
